@@ -1,0 +1,23 @@
+# Import necessary libraries
+st_aggrid
+IPython.display
+PIL 
+datetime
+gspread
+hydralit_components
+joblib
+numpy
+pandas
+pprint
+qrcode
+random
+re
+requests
+ssl
+os
+streamlit
+streamlit.components.v1
+subprocess
+sys
+time
+warnings

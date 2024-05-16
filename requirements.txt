@@ -1,5 +1,5 @@
 # Import necessary libraries
-st_aggrid
+streamlit-aggrid
 IPython.display
 PIL 
 datetime
